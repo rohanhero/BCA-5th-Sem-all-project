@@ -1,0 +1,14 @@
+E:\allcsharp\only codes\bin\Debug\net8.0\only codes.exe
+E:\allcsharp\only codes\bin\Debug\net8.0\only codes.deps.json
+E:\allcsharp\only codes\bin\Debug\net8.0\only codes.runtimeconfig.json
+E:\allcsharp\only codes\bin\Debug\net8.0\only codes.dll
+E:\allcsharp\only codes\bin\Debug\net8.0\only codes.pdb
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.GeneratedMSBuildEditorConfig.editorconfig
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.AssemblyInfoInputs.cache
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.AssemblyInfo.cs
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.csproj.CoreCompileInputs.cache
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.dll
+E:\allcsharp\only codes\obj\Debug\net8.0\refint\only codes.dll
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.pdb
+E:\allcsharp\only codes\obj\Debug\net8.0\only codes.genruntimeconfig.cache
+E:\allcsharp\only codes\obj\Debug\net8.0\ref\only codes.dll
