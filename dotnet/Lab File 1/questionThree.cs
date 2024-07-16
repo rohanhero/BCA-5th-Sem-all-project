@@ -39,7 +39,7 @@
 //         {
 //             if (obj.Balance < 0)
 //             {
-//                 Console.WriteLine("This is the lower error");
+//                 Console.WriteLine("Error! The value is negative");
 //             }
 //             else
 //             {
