@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\college\\5th sem\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj": {}
+    "E:\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj": {}
   },
   "projects": {
-    "D:\\college\\5th sem\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj": {
+    "E:\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\college\\5th sem\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj",
+        "projectUniqueName": "E:\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj",
         "projectName": "only codes",
-        "projectPath": "D:\\college\\5th sem\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj",
-        "packagesPath": "C:\\Users\\rohan\\.nuget\\packages\\",
-        "outputPath": "D:\\college\\5th sem\\BCA-5th-Sem-all-project\\dotnet\\obj\\",
+        "projectPath": "E:\\BCA-5th-Sem-all-project\\dotnet\\only codes.csproj",
+        "packagesPath": "C:\\Users\\there\\.nuget\\packages\\",
+        "outputPath": "E:\\BCA-5th-Sem-all-project\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\there\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -1,39 +1,55 @@
 // /*
-
-// Create a class rectangle with properties length and width. Add a readonly property 'Area' that calculate area of rectangle using 
-// length and width property. 
+// Question:
+// Create a class bank account with properties account no and balance. Ensure that the balance property
+// can't be set to a negative value if an attempt is made to set a negative value, it should leave
+// the balance unchanged and print an error message.
 
 // */
 
+
 // using System;
-// using System.Diagnostics.Contracts;
 
-
-// class Rectangle
+// class Bank
 // {
-//     public int length;
-//     public int breadth;
+//     private int balance;
 
-//     public Rectangle(int length, int breadth)
-//     {
-//         this.length = length;
-//         this.breadth = breadth;
-//     }
-
-//     public int Area
+//     //This is the properties start
+//     public int Balance
 //     {
 //         get
 //         {
-//             return length * breadth;
+//             return balance;
+//         }
+//         set
+//         {
+//             balance = value;
 //         }
 //     }
+//     //This is the properties ends
 // }
 
-// class questionFour
+
+// class questionThree
 // {
 //     public static void Main(string[] args)
 //     {
-//         Rectangle obj = new Rectangle(4, 5);
-//         Console.WriteLine($"The area is: {obj.Area}");
+//         Bank obj = new Bank();
+//         obj.Balance = -3000;
+//         try
+//         {
+//             if (obj.Balance < 0)
+//             {
+//                 Console.WriteLine("Error! The value is negative");
+//             }
+//             else
+//             {
+//                 Console.WriteLine(obj.Balance);
+//             }
+//         }
+//         catch (System.Exception)
+//         {
+
+//             throw;
+//         }
 //     }
 // }

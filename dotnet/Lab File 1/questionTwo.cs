@@ -1,48 +1,60 @@
-// // write a program to inherit a class Circle, Square Trangle from Base Class Shape and Calculate Area in Each Class. using System;
 // using System;
-
-// public abstract class Shape
+// public class Fruit
 // {
-//     public abstract void Display(int value);
-// }
+//     public string? name;
+//     public string? taste;
+//     public string? size;
 
-// public class Circle : Shape
-// {
-//     public const double PI = 3.1415926;
-//     public override void Display(int radius)
+
+//     public Fruit(string name1, string taste1, string size1)
 //     {
-//         Console.WriteLine($"This is Circle Shape and area is: {PI * radius * radius}");
+//         name = name1;
+//         taste = taste1;
+//         size = size1;
+//     }
+
+//     public virtual void eat()
+//     {
+//         Console.WriteLine($"Name: {name} Taste: {taste} Size: {size}");
 //     }
 // }
 
-// public class Square : Shape
+
+// class Apple : Fruit
 // {
-//     public override void Display(int side)
+//     public Apple(string name1, string taste1, string size1): base(name1, taste1, size1)
 //     {
-//         Console.WriteLine($"This is Square Shape and area is: {side * side}");
+//     }
+
+
+
+//     public override void eat()
+//     {
+//         Console.WriteLine($"APPLE::Name: {name}, Taste: {taste}, Size: {size}");
 //     }
 // }
 
-// public class Triangle : Shape
+// class Orange : Fruit
 // {
-//     public override void Display(int baseValue)
+//     public Orange(string name1, string taste1, string size1): base(name1, taste1, size1)
 //     {
-//         // Console.WriteLine("Height value to calculate area of triangle.");
-//         Console.Write("Enter height: ");
-//         int height = Convert.ToInt32(Console.ReadLine());
-//         Console.WriteLine($"This is Triangle Shape and area is: {(baseValue * height) / 2}");
+//     }
+
+
+
+//     public override void eat()
+//     {
+//         Console.WriteLine($"ORANGE::Name: {name}, Taste: {taste} ,Size: {size}");
 //     }
 // }
 
-// public class Program
-// {
-//     public static void Main(string[] args)
-//     {
-//         Circle c = new Circle();
-//         Square s = new Square();
-//         Triangle t = new Triangle();
-//         c.Display(3);
-//         s.Display(4);
-//         t.Display(5);
+
+// class questionOne{
+//     public static void Main(string[] args){
+//         Apple a = new Apple("Apple", "mitho", "xll");   
+//         a.eat();
+
+//         Orange O = new Orange("Orage", "Amilo", "L");
+//         O.eat();
 //     }
 // }
