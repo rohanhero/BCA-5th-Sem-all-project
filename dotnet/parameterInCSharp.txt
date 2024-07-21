@@ -1,0 +1,7 @@
+Parameter in C#
+- defines the set of argumaent that must be provided for method.
+
+static void MyMethod(string fname)
+{
+    Console.WriteLine(fname + " Refsnes");
+}

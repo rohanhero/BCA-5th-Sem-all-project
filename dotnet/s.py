@@ -14,3 +14,4 @@ obj = Solution()
 nums = [3,3]
 target = 6
 print(obj.twoSum(nums, target))
+
