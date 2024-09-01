@@ -1,0 +1,15 @@
+E:\BCA-5th-Sem-all-project\FirstTerminal\bin\Debug\net8.0\FirstTerminal.exe
+E:\BCA-5th-Sem-all-project\FirstTerminal\bin\Debug\net8.0\FirstTerminal.deps.json
+E:\BCA-5th-Sem-all-project\FirstTerminal\bin\Debug\net8.0\FirstTerminal.runtimeconfig.json
+E:\BCA-5th-Sem-all-project\FirstTerminal\bin\Debug\net8.0\FirstTerminal.dll
+E:\BCA-5th-Sem-all-project\FirstTerminal\bin\Debug\net8.0\FirstTerminal.pdb
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.AssemblyInfoInputs.cache
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.AssemblyInfo.cs
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.csproj.CoreCompileInputs.cache
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.sourcelink.json
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.dll
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\refint\FirstTerminal.dll
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.pdb
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\FirstTerminal.genruntimeconfig.cache
+E:\BCA-5th-Sem-all-project\FirstTerminal\obj\Debug\net8.0\ref\FirstTerminal.dll
