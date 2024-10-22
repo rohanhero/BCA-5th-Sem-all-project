@@ -1,1 +1,2 @@
-type
+ge(len(sortedarr)):
+    #     print(i)

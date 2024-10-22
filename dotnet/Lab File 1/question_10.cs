@@ -1,3 +1,6 @@
+// // Question: What is the output of the program when the addDistance() method is called, 
+// // and how is the distance being calculated from the given feet and inches?
+
 // using System;
 
 // class Distance
@@ -25,10 +28,10 @@
 //     }
 // }
 
-
 // class MyDistance{
 //     public static void Main(string[] args){
 //         Distance obj = new Distance(5,5);
 //         obj.addDistance();
+//         obj.subtarctDistance();
 //     }
 // }

@@ -1,4 +1,4 @@
-// Multi Cast Delegate
+// // Question: Write a program to implement Multi Cast Delegate in C#
 // using System;
 // public delegate int Mathdelegate(int x, int y);
 
@@ -25,6 +25,6 @@
 //         Mathdelegate d = c.sum;
 //         d += c.sum;
 //         int mainres = d(4,4); 
-//         Console.WriteLine(mainres);
+//         Console.WriteLine($"The sum is: {mainres}");
 //     }
 // }

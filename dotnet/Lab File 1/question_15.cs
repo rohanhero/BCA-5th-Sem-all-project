@@ -1,3 +1,5 @@
+// // Write a Program from Generics to implement Dictionary in C#
+
 // using System;
 // using System.Collections.Generic;
 
@@ -10,7 +12,7 @@
 
 //         dict.Add(1, "Aayush");
 //         dict.Add(2, "Rohan");
-//         dict.Add(3, "Bikash");
+//         dict.Add(3, "Biplop");
 //         dict.Add(4, "Ramesh");
 
 //         foreach (var item in dict)
@@ -35,3 +37,4 @@
 //         }
 //     }
 // }
+
