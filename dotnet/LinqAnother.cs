@@ -3,35 +3,33 @@
 
 
 // using System;
-
+// using System.Collections.Generic;
 // using System.Linq;
+
 
 // class Employee{
 //     public string? Name {get; set;}
 //     public int Salary {get; set;}
-//     public string? Address {get; set;}
+//     public string? Address {get; set;} 
 // }
+
 
 // class Program{
 //     public static void Main(string[] args){
-//         List<Employee> employee = new List<Employee>{
-//             new Employee {Name = "Aayush", Salary=30000, Address="Hetauda"},
-//             new Employee {Name = "Rohit", Salary=60000, Address="Pokhara"},
-//             new Employee {Name = "Ram", Salary=70000, Address="Kathmandu"},
-//             new Employee {Name = "Sita", Salary=65000, Address="Kathmandu"},
+//         List<Employee> employee =  new List<Employee>{
+//             new Employee{Name="Aayush",Salary=30000, Address="kathmandu" },
+//             new Employee{Name="Rohan",Salary=50000, Address="hetauda" },
+//             new Employee{Name="LilJhola",Salary=10000, Address="pokhara" }
 //         };
 
 
-//         // LINQ
-//         var selectEmployee = employee
-//         .Where(employee => employee.Salary > 20000 && employee.Address == "Kathmandu")
+
+//         // Linq
+//         var selectedemployee = employee.Where(employee=>employee.Salary >=20000 && employee.Address == "kathmandu")
 //         .ToList();
 
-
-//         Console.WriteLine("The employee whose salary is greater than 20000 and address is Kathamndu is: ");
-
-//         foreach(var item in selectEmployee){
-//             Console.WriteLine($"The name is: {item.Name},Salary: {item.Salary},Address: {item.Address}");
+//         foreach(var item in selectedemployee){
+//             Console.WriteLine($"{item.Name}");
 //         }
 //     }
 // }
