@@ -2,10 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
-public class BF extends JPanel {
+public class BoundaryFill extends JPanel {
     private BufferedImage img;
 
-    public BF() {
+    public BoundaryFill() {
         img = new BufferedImage(500, 500, BufferedImage.TYPE_INT_RGB);
         Graphics g = img.getGraphics();
         g.setColor(Color.WHITE);
@@ -34,7 +34,7 @@ public class BF extends JPanel {
 
     public static void main(String[] args) {
         JFrame f = new JFrame();
-        BF p = new BF();
+        BoundaryFill p = new BoundaryFill();
         f.add(p);
         f.setSize(500, 500);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
