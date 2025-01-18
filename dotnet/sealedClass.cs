@@ -7,8 +7,8 @@
 // }
 
 
-// class Cat{
-// // class Cat : Vehicle{
+// // class Cat{
+// class Cat : Vehicle{
 //     public void display(){
 //         Console.WriteLine("This is the child class");
 //     }   

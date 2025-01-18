@@ -1,0 +1,15 @@
+E:\BCA-5th-Sem-all-project\PreBoard\bin\Debug\net8.0\PreBoard.exe
+E:\BCA-5th-Sem-all-project\PreBoard\bin\Debug\net8.0\PreBoard.deps.json
+E:\BCA-5th-Sem-all-project\PreBoard\bin\Debug\net8.0\PreBoard.runtimeconfig.json
+E:\BCA-5th-Sem-all-project\PreBoard\bin\Debug\net8.0\PreBoard.dll
+E:\BCA-5th-Sem-all-project\PreBoard\bin\Debug\net8.0\PreBoard.pdb
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.AssemblyInfoInputs.cache
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.AssemblyInfo.cs
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.csproj.CoreCompileInputs.cache
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.sourcelink.json
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.dll
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\refint\PreBoard.dll
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.pdb
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\PreBoard.genruntimeconfig.cache
+E:\BCA-5th-Sem-all-project\PreBoard\obj\Debug\net8.0\ref\PreBoard.dll
